@@ -1,1 +1,1 @@
-# GTS_Practice_C++
+Practice_C++
